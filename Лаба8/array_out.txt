@@ -1,0 +1,7 @@
+Even elements in reverse: 0 8 
+Number of even elements: 2
+Even elements in reverse: -2 6 8.8 4 10.2 
+Number of even elements: 5
+Sorted array: 
+Sorted array: -2 3.3 4 5.1 6 8.8 10.2 
+Sorted array: -5.5 0 3.4 7.5 8 
