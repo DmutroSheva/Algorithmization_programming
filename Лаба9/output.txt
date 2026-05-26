@@ -1,0 +1,30 @@
+Line: ABA CDC AAA
+Count: 3
+
+Line: HELLO LEVEL RADAR
+Count: 2
+
+Line: ABC DEF GHI
+Count: 0
+
+Line: WOW MOM DAD
+Count: 3
+
+Line: TEST TEXT
+Count: 2
+
+Line: QWQ RAR TTT
+Count: 3
+
+Line: CODE DATA JAVA
+Count: 0
+
+Line: POP TOP SOS
+Count: 2
+
+Line: AAA BBB CCC
+Count: 3
+
+Line: HELLO WORLD
+Count: 0
+
